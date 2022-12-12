@@ -18,6 +18,7 @@ email : dong0403kr@naver.com
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdong0403kr%2Fhit-counter&count_bg=%2350EBDA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=true)](https://hits.seeyoufarm.com)
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
 <!--
 **dong0403kr/dong0403kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
