@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&text=Hello%20World!&section=header)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&text=Hello%20World!&fontColor=black&section=header)
 <br>
 Welcome to my page!<br>
 I am a student who studies to become a developer from Korea. 
