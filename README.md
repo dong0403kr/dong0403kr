@@ -2,8 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=150&text=Hello%20World!&fontColor=black&fontSize=50&section=header)
 
 <br>
-Welcome to my page!<br>
-I am a student who studies to become a developer from Korea. 
+Welcome to my page!<br> 
 
 <br>
 
