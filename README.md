@@ -2,17 +2,17 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=180&text=Hello%20World!&fontColor=black&fontSize=50&section=header)
 
 <br>
-Welcome to my page!<br> 
+Welcome to my github page!<br>
 
 <br>
 
-### currently learning...
+## currently learning...
 <img src="https://img.shields.io/badge/C Language-red?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-
-### use tools...
+<br><br>
+## use tools...
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
-
-### How to reach me...
+<br><br>
+## How to reach me...
 email : dong0403kr@naver.com
 <br><br><br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dong0403kr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
